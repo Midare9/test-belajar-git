@@ -6,3 +6,4 @@ const result = math.sum(3, 3);
 console.log(result);
 
 // Ini untuk test git
+// Kemudian dihapus
